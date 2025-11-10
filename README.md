@@ -1,6 +1,10 @@
 # JLC-parts-reference
 Parts References and Lookups for JLC parts library (because their search function sucks)
 
+## LED Lookup
+
+- Yellow -> NCD0805Y1 C84261 -30℃~+85℃ 1.6V~2.6V 130° 180mcd 25mA 585nm~596nm 595nm 65mW Yellow 0805 LED Indication Discrete ROHS
+- Blue -> NCD0805B2 C84259 -30℃~+85℃ 130° 2.5V~3.6V 20mA 465nm 468nm~478nm 55mcd 72mW Blue 0805 LED Indication - Discrete ROHS
 
 
 
@@ -19,7 +23,7 @@ KT-0805W - white
 
 
 
-## JLC LED Library
+## JLC LED Library - old
 | Colour 	| MF part 		 |  JLC part| Basic? |
 |---		    |---			      |---		     |---     |
 |red		    |BL-HUF35A-AV-TRB	|		       | |
